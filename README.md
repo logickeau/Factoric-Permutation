@@ -1,5 +1,5 @@
 # Factoric-Permutation
-A CS problem asked to solve during a job interview
+A CS problem asked to be solved during a job interview
 ------------------------------------------------------------------------------
 
 Consider a "word" as any sequence of capital letters A-Z (not limited to just "dictionary words"). For any 
